@@ -6,7 +6,7 @@ This repository contains a Jupyter notebook implementation of the Value Iteratio
 
 ## Description
 
-The notebook `new_grid.ipynb` implements a value iteration algorithm for solving a Grid World problem with the following specifications:
+The notebook `RLGridBellmandEquation.ipynb` implements a value iteration algorithm for solving a Grid World problem with the following specifications:
 
 - 4x4 grid where an agent starts at the top-left corner
 - Goal is to reach the bottom-right corner (terminal state)
